@@ -1,0 +1,3 @@
+D:/Scoala/Y3S2/PP/Project2/cmake-build-debug/CMakeFiles/Project2.dir
+D:/Scoala/Y3S2/PP/Project2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Scoala/Y3S2/PP/Project2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
